@@ -1,0 +1,5 @@
+Missing data refers to the absence of values for certain observations and is an unavoidable
+problem in most data sources. Scikit-learn does not support missing values as input, so we
+need to remove observations with missing data or transform them into permitted values.
+The act of replacing missing data with statistical estimates of missing values is
+called imputation.

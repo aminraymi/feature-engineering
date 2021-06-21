@@ -1,0 +1,4 @@
+The values of categorical variables are often encoded as strings. Scikit-learn, the open
+source Python library for machine learning, does not support strings as values, therefore,
+we need to transform those strings into numbers. The act of replacing strings with numbers
+is called categorical encoding.

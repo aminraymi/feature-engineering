@@ -1,0 +1,5 @@
+Variables in their original, raw format are not suitable to train machine learning algorithms.
+In fact, we need to consider many aspects of a variable to build powerful machine learning
+models. These aspects include variable type, missing data, cardinality and category
+frequency, variable distribution and its relationship with the target, outliers, and feature
+magnitude.

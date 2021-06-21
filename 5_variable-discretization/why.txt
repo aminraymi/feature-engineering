@@ -1,0 +1,5 @@
+Discretization, or binning, is the process of transforming continuous variables into discrete
+variables by creating a set of contiguous intervals, also called bins, that span the range of
+the variable values. Discretization is used to change the distribution of skewed variables
+and to minimize the influence of outliers, and hence improve the performance of some
+machine learning models.

@@ -1,3 +1,7 @@
 Linear and logistic regression assume that the variables are normally distributed. If they are
 not, we can often apply a mathematical transformation to change their distribution into
-Gaussian
+Gaussian, and sometimes even unmask linear relationships between variables and their
+targets. This means that transforming variables may improve the performance of linear
+machine learning models. Commonly used mathematical transformations include the
+logarithm, reciprocal, power, square and cube root transformations, as well as the Box-Cox
+and Yeo-Johnson transformations.

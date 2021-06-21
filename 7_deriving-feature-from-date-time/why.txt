@@ -1,0 +1,7 @@
+Date and time variables are those that contain information about dates, times, or date and
+time. In programming, we refer to these variables as datetime variables. Examples of the
+datetime variables are date of birth, time of the accident, and date of last payment. The
+datetime variables usually contain a multitude of different labels corresponding to a
+specific combination of date and time. We do not utilize the datetime variables in their
+raw format when building machine learning models. Instead, we enrich the dataset
+dramatically by deriving multiple features from these variables.

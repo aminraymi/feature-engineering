@@ -1,0 +1,4 @@
+An outlier is a data point that is significantly different from the remaining data. Statistical
+parameters such as the mean and variance are sensitive to outliers. Outliers may also affect
+the performance of some machine learning models, such as linear regression or AdaBoost.
+Therefore, we may want to remove or engineer the outliers in the variables of our dataset
