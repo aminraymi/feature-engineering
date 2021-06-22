@@ -1,0 +1,8 @@
+data can also contain multiple values
+that are not independent for each entity. For example, there can be multiple records for
+each customer with the details of the customer's transactions within our organization, such
+as purchases, payments, claims, deposits, and withdrawals. In other cases, the values of the
+variables may change daily, such as stock prices or energy consumption per household. The
+first data sources are referred to as transactional data, whereas the second data sources are
+time series. Time series and transactional data contain time-stamped observations, which
+means they share a time dimension.
